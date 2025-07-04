@@ -45,3 +45,4 @@ zipp==3.23.0
 streamlit
 sqlalchemy
 psycopg2-binary
+plotly
